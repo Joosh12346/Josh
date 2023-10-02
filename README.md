@@ -1,3 +1,3 @@
 # Josh
-Josh Kurosky 
-joshua.kurosky@wsu.edu
+Name: Josh Kurosky 
+Email: joshkurosky@wsu.edu
